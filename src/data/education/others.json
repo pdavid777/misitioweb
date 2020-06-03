@@ -1,0 +1,23 @@
+{
+    "slug": "otros",
+    "title": "Otros estudios",
+    "description": "Cursos, seminarios, idiomas.",
+    "items": [
+        {
+            "name": "A1",
+            "datos": "A2",
+            "score" : "A4"
+        },
+        {
+            "name": "A1",
+            "datos": "A2",
+            "score" : "A4"
+        },
+        {
+            "name": "A1",
+            "datos": "A2",
+            "score" : "A4"
+        }
+    ]
+
+}

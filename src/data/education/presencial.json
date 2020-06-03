@@ -1,0 +1,23 @@
+{
+    "slug": "presencial",
+    "title": "Formación académica",
+    "description": "Formación académica, grados de estudio e instituciones a las que asistí.",
+    "items": [
+        {
+            "name": "Instituto de Capacitación y Trabajo",
+            "degree": "Técnico en Reparación de PC",
+            "score": "90"
+        },
+        {
+            "name": "Universidad Nacional del Comahue",
+            "degree": "Técnico Superior en Desarrollo de Aplicaciones Web",
+            "score": "90"
+        },
+        {
+            "name": "Universidad Nacional del Comahue",
+            "degree": "Desarrollo full-stack de aplicaciones Web con Javascript",
+            "score": "En curso..."
+        }
+    ]
+
+}

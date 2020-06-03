@@ -1,0 +1,23 @@
+{
+    "slug": "online",
+    "title": "Cursos en línea",
+    "description": "Todo lo que tomé en línea",
+    "items": [
+        {
+            "name": "B1",
+            "datos": "B2",
+            "url" : "https://casa.com"
+        },
+        {
+            "name": "J1",
+            "datos": "J2",
+            "url" : "https://cascote.net"
+        },
+        {
+            "name": "YT1",
+            "datos": "U2",
+            "url" : "https://pastito.co.uk"
+        }
+    ]
+
+}
